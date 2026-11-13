@@ -1,0 +1,6 @@
+{
+  "name": "ImpactConnect",
+  "description": "Mobile-first micro-philanthropy, grassroots volunteer dispatch, and corporate CSR matching platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
